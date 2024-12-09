@@ -2,7 +2,7 @@ Here's a well-structured `README.md` template for your GitHub project:
 
 ---
 
-# Anxiety Level Classification  
+#  Tranquilo Anxiety Level Classification model   
 
 Welcome to the **Anxiety Level Classification** project! This repository contains a complete workflow for understanding and classifying anxiety levels using machine learning. It includes data exploration, model building, a Flask API for serving predictions, Dockerization for deployment, and a Streamlit web application.  
 
