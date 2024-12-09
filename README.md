@@ -1,6 +1,4 @@
-Here's a well-structured `README.md` template for your GitHub project:  
 
----
 
 #  Tranquilo Anxiety Level Classification model   
 
